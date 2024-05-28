@@ -1,4 +1,4 @@
-# Power-BI-Visual---Hospitality-Domain
+# A deep dive into the hospitality business data using Power BI
 The hospitality industry thrives on exceptional experiences. But how do we measure that magic touch and translate it into sustainable success? Here's where Business Intelligence (BI) steps in, empowering us to unlock valuable insights from a treasure trove of hospitality metrics.
 
 In my recent portfolio project, I’ve dived deep into this domain, tried to understand the metrics that matter & visualized the data to demonstrate the trends in play. I have taken the data from the Codebasics site. This data belongs to a hotel chain that has multiple hotels in multiple cities. For Dataviz, I have used Microsoft Power BI.
